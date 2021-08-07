@@ -1,0 +1,76 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image":
+                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alzashop.com%2Fiphone-12-pro-128gb-seda-d6216469.htm&psig=AOvVaw3-TrgZl4cr5_IUsbtMJf2f&ust=1628311085056000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjf9ffJm_ICFQAAAAAdAAAAABAK"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image":
+                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-128GB-8GB-RAM%2Fdp%2FB08JN8MCT5&psig=AOvVaw259V3rCvSqGoANFOo8Hirb&ust=1628415068600000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDEl5nNnvICFQAAAAAdAAAAABAD"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook Air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image":
+                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.notebookcheck-ru.com%2FApple-MacBook-Air-2020-M1-Entry.508264.0.html&psig=AOvVaw2Pdyc-Uioz-7BVeUo4ovd0&ust=1628415239300000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjAn-vNnvICFQAAAAAdAAAAABAD"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image":
+                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.ru.playstation.com%2F2020%2F11%2F05%2Fplaystation-5-launch-day-ordering-update%2F&psig=AOvVaw1O6qFMmSzvWzpk5fEStmiv&ust=1628415292395000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIi8iIHOnvICFQAAAAAdAAAAABAD"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Airpods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image":
+                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iport.ru%2Fproducts%2FproductID84361%2F&psig=AOvVaw39EHqwuhoTWnLYmaDt6_-U&ust=1628415337223000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLid2pHOnvICFQAAAAAdAAAAABAV"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image":
+                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FFQDY2LL%2FA%2Frefurbished-105-inch-ipad-pro-wi-fi-64gb-rose-gold&psig=AOvVaw3Y_qwaL9fsCs5qIm8B1PAZ&ust=1628415422753000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjo-7fOnvICFQAAAAAdAAAAABAG"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image":
+                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.samsung.com%2Fin%2Fbusiness%2Fsmartphones%2Fgalaxy-s21-ultra-5g-g988%2Fsm-g998bzkginu%2F&psig=AOvVaw2WBdhz3cJMoRCny17ZAkZs&ust=1628415474153000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiHqtTOnvICFQAAAAAdAAAAABAJ"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image":
+                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mvideo.ru%2Fproducts%2Fsmartfon-samsung-galaxy-s21-128gb-phantom-violet-sm-g991b-30054909&psig=AOvVaw1pApa4mI-BYXRAY0ljkEtb&ust=1628415579036000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKijxIzPnvICFQAAAAAdAAAAABAD"
+        }
+    ]
+}
