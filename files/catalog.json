@@ -1,13 +1,12 @@
 {
-    "products" : [
+    "products": [
         {
             "id": 1,
             "name": "iPhone 12 Pro",
             "desc": "Apple iPhone 12th generation",
             "price": 999,
             "color": "#33505a",
-            "image":
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alzashop.com%2Fiphone-12-pro-128gb-seda-d6216469.htm&psig=AOvVaw3-TrgZl4cr5_IUsbtMJf2f&ust=1628311085056000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjf9ffJm_ICFQAAAAAdAAAAABAK"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
         },
         {
             "id": 2,
@@ -15,17 +14,15 @@
             "desc": "Google Pixel phone 5th generation",
             "price": 699,
             "color": "#00ac51",
-            "image":
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-128GB-8GB-RAM%2Fdp%2FB08JN8MCT5&psig=AOvVaw259V3rCvSqGoANFOo8Hirb&ust=1628415068600000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDEl5nNnvICFQAAAAAdAAAAABAD"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0JhwLvm_uLDLc-la7hK9WyVpe9naJFcebKfhcICiq2KtvXDePNAU_9QO06LPcQ0K0fLByc7m&usqp=CAc"
         },
         {
             "id": 3,
             "name": "M1 Macbook Air",
-            "desc": "Apple Macbook Air with apple silicon",
+            "desc": "Apple Macbook air with apple silicon",
             "price": 1099,
             "color": "#e0bfae",
-            "image":
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.notebookcheck-ru.com%2FApple-MacBook-Air-2020-M1-Entry.508264.0.html&psig=AOvVaw2Pdyc-Uioz-7BVeUo4ovd0&ust=1628415239300000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjAn-vNnvICFQAAAAAdAAAAABAD"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
         },
         {
             "id": 4,
@@ -33,17 +30,15 @@
             "desc": "Sony Playstation 5th generation",
             "price": 500,
             "color": "#544ee4",
-            "image":
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.ru.playstation.com%2F2020%2F11%2F05%2Fplaystation-5-launch-day-ordering-update%2F&psig=AOvVaw1O6qFMmSzvWzpk5fEStmiv&ust=1628415292395000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIi8iIHOnvICFQAAAAAdAAAAABAD"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
         },
         {
             "id": 5,
             "name": "Airpods Pro",
-            "desc": "Apple Airpods Pro 1st generation",
+            "desc": "Apple Aipods Pro 1st generation",
             "price": 200,
             "color": "#e3e4e9",
-            "image":
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iport.ru%2Fproducts%2FproductID84361%2F&psig=AOvVaw39EHqwuhoTWnLYmaDt6_-U&ust=1628415337223000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLid2pHOnvICFQAAAAAdAAAAABAV"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
         },
         {
             "id": 6,
@@ -51,8 +46,7 @@
             "desc": "Apple iPad Pro 2020 edition",
             "price": 799,
             "color": "#f73984",
-            "image":
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FFQDY2LL%2FA%2Frefurbished-105-inch-ipad-pro-wi-fi-64gb-rose-gold&psig=AOvVaw3Y_qwaL9fsCs5qIm8B1PAZ&ust=1628415422753000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjo-7fOnvICFQAAAAAdAAAAABAG"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
         },
         {
             "id": 7,
@@ -60,8 +54,7 @@
             "desc": "Samsung Galaxy S21 Ultra 2021 edition",
             "price": 1299,
             "color": "#1c1c1c",
-            "image":
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.samsung.com%2Fin%2Fbusiness%2Fsmartphones%2Fgalaxy-s21-ultra-5g-g988%2Fsm-g998bzkginu%2F&psig=AOvVaw2WBdhz3cJMoRCny17ZAkZs&ust=1628415474153000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiHqtTOnvICFQAAAAAdAAAAABAJ"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_PZcc0wicVYR992s5QCIDLYy8t-z-9kibTUdWZBN2sd86aaqdAJfhvxAwZNWV9wfdzDikpr1&usqp=CAc"
         },
         {
             "id": 8,
@@ -69,8 +62,7 @@
             "desc": "Samsung Galaxy S21 2021 edition",
             "price": 899,
             "color": "#7c95eb",
-            "image":
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mvideo.ru%2Fproducts%2Fsmartfon-samsung-galaxy-s21-128gb-phantom-violet-sm-g991b-30054909&psig=AOvVaw1pApa4mI-BYXRAY0ljkEtb&ust=1628415579036000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKijxIzPnvICFQAAAAAdAAAAABAD"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNHd7FwarbxA1xdMFt24KazjcR4dWPH_t_T5dz4YNK1s7rJAQ8gOIuR_NRw6eeiQgFhbZ9sAN&usqp=CAc"
         }
     ]
 }
